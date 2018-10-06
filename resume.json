@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Mindy Or",
+    "label": "Developer",
+    "picture": "",
+    "email": "or.mindy@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Works across cultures in many countries in many teams. Just wants to build the right thing for the right reasons. Often ends up improving test suite significantly. Often ends up facilitating and designing. Sometimes speaks at conferences. Deliberate in coaching and mentorship.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mindyor",
+        "url": "https://github.com/mindyor"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mindyor",
+        "url": "http://www.linkedin.com/pub/mindy-or/7a/885/265"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ThoughtWorks",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2018-04-30",
+      "summary": "Fortune 200 Fashion Retailer is seeking to collect product data from vendors to cut product orders and item master. Designing and implementing API for buyers to select products of interest and for vendors to streaming product updates.",
+      "highlights": [
+        "Java, Google Cloud Platform, Kubernetes, Terraform, Gitlab CI.",
+        "Shaping architecture and design patterns.",
+        "Mentoring junior developers.",
+        "Seattle, Washington"
+      ]
+    },
+    {
+      "company": "ThoughtWorks",
+      "position": "Iteration Manager/Business Analyst/Technical Product Manager",
+      "website": "",
+      "startDate": "2017-01-16",
+      "endDate": "2018-04-27",
+      "summary": "Canadian Telecommunications company had 10 weeks to automate the order process, moving commerce flow onto reference architecture to make the Apple iPhone launch, their second highest-traffic event of the year. Built an API platform to not only fully automate the process from order submission to warehouse fulfillment but also show personalized pricing and offers - thus saving the business from updating many different content management systems with each pricing change.",
+      "highlights": [
+        "Team management, requirements analysis, dependency analysis, work breakdown, API design facilitation, story mapping, storytelling, showcases.",
+        "Worked closely with four different teams in four locations. Team adopted consumer driven contract tests.",
+        "Service able to sustain heavy load; we were the only Telco not to go down on iPhone launch night.",
+        "Team grew from 6 to 12 engineers.",
+        "After Black Friday, moved to the UI side to act as their lead. Worked in tight collaboration with designers to create new flows, break down and prioritize work.",
+        "Toronto, Canada"
+      ]
+    },
+    {
+      "company": "ThoughtWorks",
+      "position": "Senior Developer",
+      "website": "",
+      "startDate": "2016-02-22",
+      "endDate": "2016-12-23",
+      "summary": "",
+      "highlights": [
+        "iOS (Swift), Android, Python to connect to wifi-enabled appliances and run multi-step programs.",
+        "The client company planned to unveil a system connecting its food recognition capabilities with its recipe database and new partnership with an appliance manufacturer in an aggressive timeline. To this end, Mindy Or worked with team to develop a Swift iOS application front-end, PHP back-end API to retrieve recipe information, and a Java back-end to cook the recipes selected against a wifi-enabled oven robust to events on each end.",
+        "After building and successfully unveiling the cooking system, scaled out the dynamic cooking service with Docker and AWS.",
+        "Redwood City, California"
+      ]
+    },
+    {
+      "company": "ThoughtWorks",
+      "position": "Developer",
+      "website": "",
+      "startDate": "2013-04-22",
+      "endDate": "2016-02-05",
+      "summary": "",
+      "highlights": [
+        "AngularJS, Java, Objective C to build hybrid app allowing sales associates to view detailed product information, check inventory in other stores, and make sales.",
+        "Java to enhance deterministic retail sourcing algorithm.",
+        "San Francisco, California and Porto Alegre, Brazil."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Maryland, Baltimore County",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2008-08-27",
+      "endDate": "2012-12-21",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "scnRCA: A Novel Method to Detect Consistent Patterns of Translational Selection in Mutationally-Biased Genomes",
+      "publisher": "PlosOne",
+      "releaseDate": "2013-10-07",
+      "website": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076177",
+      "summary": "Introduces a self-consistent codon usage bias index with implicit correction for mutational bias, then applied to Pseudomonadales. Java."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Analysis",
+      "level": "",
+      "keywords": [
+        "Requirements Analysis",
+        "Backlog Management",
+        "Story Breakdown",
+        "Story Mapping",
+        "Facilitation"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Java"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "",
+      "keywords": [
+        "Google Cloud Platform",
+        "Amazon Web Services"
+      ]
+    },
+    {
+      "name": "CI/CD/Devops",
+      "level": "",
+      "keywords": [
+        "Kubernetes",
+        "Gitlab CI",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": [
+        "Android",
+        "Swift"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Angular",
+        "Ionic"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "Low Level",
+      "level": "",
+      "keywords": [
+        "C",
+        "CUDA",
+        "OpenMP",
+        "MPI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Suficiente pra sobreviver, some reading and writing"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Lightly conversational, some reading and writing"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
